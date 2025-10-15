@@ -134,7 +134,7 @@ The application is fully responsive with breakpoints for:
 
 ### Development Setup
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/naveen9066/Student_Management_System.git`
+2. Clone your fork: https://github.com/naveen9066/Student_Management_System-.git
 3. Open `index.html` in your browser to test changes
 4. Make modifications to HTML, CSS, or JavaScript files
 5. Test thoroughly across different browsers and screen sizes
@@ -154,7 +154,7 @@ The application is fully responsive with breakpoints for:
 
 For questions, suggestions, or support:
 - **Author**: Naveen.S
-- **Project Repository**: https://github.com/naveen9066/Student_Management_System.git
+- **Project Repository**: https://github.com/naveen9066/Student_Management_System-.git
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 - **Email**: naveenjkkm2004@gmail.com
 - **Website**: https://student-management-system-two-indol.vercel.app/
